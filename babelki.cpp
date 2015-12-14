@@ -22,3 +22,4 @@ int main(){
 	printf("%c\n",a[3]);	
 	bubble(a,n);
 }
+gswtwrasdqa
