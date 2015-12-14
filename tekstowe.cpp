@@ -14,7 +14,7 @@ int main(){int i,j,max,z;
 		}
 		if (j>max) {max=j;
 		strcpy(mac,bufor);;
-		
+		rtqtfdasfqwr
 		}
 		
 		printf("%s\n",bufor);	}
