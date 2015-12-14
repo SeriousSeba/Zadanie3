@@ -28,7 +28,7 @@ int bubble(char tab[5][10],int n){
 						tab[j+1][c]=temp[c];
 				} 
 		
-			
+			gfxvxsf
 			}
 		}
 	}
