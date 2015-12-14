@@ -10,5 +10,5 @@ int main(){
 	double r,a;
 	scanf("%lf%lf",&r,&a);
 	oblicz(r,a);
-	
+	uytuerw
 }
