@@ -21,5 +21,5 @@ int main(){
 	scanf("%s",&a);
 	printf("%c\n",a[3]);	
 	bubble(a,n);
-	printf("%s",a);
 }
+gswtwrasdqa

@@ -20,3 +20,4 @@ int main(){int i,j,max,z;
 		printf("%s\n",bufor);	}
 printf("%s z %d literami",mac,max);
 }
+trest123
