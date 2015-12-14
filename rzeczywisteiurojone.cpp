@@ -13,7 +13,7 @@ double licz2(double g,double h){
 	o=atan(h/g);
 	return o;	
 	
-	
+	weff
 	
 }
 int main()
