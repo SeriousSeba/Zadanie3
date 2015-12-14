@@ -5,8 +5,6 @@ int main(){
 	int i,j,n;
 	n=5;
 	char temp[20],bufor[20],bufor2[20];
-//	char a[SIZE];
-//	for(i=0;i<3;i++)
 //		scanf("%s",&a[i]);
 //	printf("%s\n",a[1]);
 	char **tab = (char**) malloc(10*sizeof(char*));   // tworzymy tablice na 10 napisow
